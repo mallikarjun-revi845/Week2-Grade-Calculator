@@ -1,0 +1,47 @@
+Test Case 1
+Input:
+Name: Priya
+Marks: 95
+
+Output:
+Grade: A
+
+---
+
+Test Case 2
+Input:
+Name: Rahul
+Marks: 85
+
+Output:
+Grade: B
+
+---
+
+Test Case 3
+Input:
+Name: Sneha
+Marks: 72
+
+Output:
+Grade: C
+
+---
+
+Test Case 4
+Input:
+Name: Amit
+Marks: 65
+
+Output:
+Grade: D
+
+---
+
+Test Case 5
+Input:
+Name: Rohan
+Marks: 45
+
+Output:
+Grade: F
